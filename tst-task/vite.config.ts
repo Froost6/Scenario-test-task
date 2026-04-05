@@ -10,4 +10,5 @@ export default defineConfig({
       },
     }),
   ],
+  base: 'https://github.com/Froost6/Scenario-test-task'
 })
